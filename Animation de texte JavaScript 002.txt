@@ -1,0 +1,15 @@
+23/03/2022
+	
+	projet:Animation de texte JavaScript 002
+
+	Chaine: Le Designer du Web
+
+	https://youtu.be/vaydp2DRrmY
+
+______________________________________________________________________________________________
+Javascript:
+	"typewriterjs" est une librérie sur github pour annimer du texte. 
+
+	https://github.com/tameemsafi/typewriterjs
+
+
