@@ -7,7 +7,7 @@ new Typewriter(txtAnim, {
     // deleteSpeed: 20
 })
 .changeDelay(50)
-.typeString('Moi c\'est John Doe')
+.typeString('Moi c\'est Franckdun')
 .pauseFor(300)
 .typeString('<strong>, Dev Full-Stack</strong> !')
 .pauseFor(3000)
